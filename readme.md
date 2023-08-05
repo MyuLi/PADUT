@@ -1,15 +1,20 @@
 # Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction 
 
-####   Miaoyu Li,  [Ying Fu](https://ying-fu.github.io/), Ji Liu,  [Yulun Zhang](http://yulunzhang.com/)
 
+<a target='_blank'> Miaoyu Li <sup>1</sup> </a>&emsp;
+    <a href='https://ying-fu.github.io/' target='_blank'>Ying Fu<sup>1</a>&emsp;
+    <a target='_blank'> Ji Liu <sup>2</sup> </a>&emsp;
+    <a href='http://yulunzhang.com/' target='_blank'>Yulun Zhang <sup>3</sup></a>&emsp;
+<div align="center">
 <br>
-<div>
+<div >
     <sup>1</sup> Beijing Institute of Technology &emsp; <sup>2</sup> Baidu Inc. &emsp; <sup>3</sup> ETH Zurich &emsp; 
 </div>
 <br>
 <i><strong><a target='_blank'>ICCV 2023</a></strong></i>
 <br>
 <br>
+</div>
 
 [Arxiv]() 
 ## 1. Comparison with State-of-the-art Methods
