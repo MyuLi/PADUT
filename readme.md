@@ -84,6 +84,7 @@ python train.py --template dauhst --outf ./exp/padut_7stg/ --method padut_7
 python train.py --template dauhst --outf ./exp/padut_12stg/ --method padut_12
 ```
 ### 4.2　Testing
+```
 python test.py --template dauhst --outf ./exp/padut_3stg/ --method padut_3 --pretrained_model_path ./checkpoints/3.pth
 
 python test.py --template dauhst --outf ./exp/padut_5stg/ --method padut_5 --pretrained_model_path ./checkpoints/5.pth
@@ -91,13 +92,16 @@ python test.py --template dauhst --outf ./exp/padut_5stg/ --method padut_5 --pre
 python test.py --template dauhst --outf ./exp/padut_7stg/ --method padut_7 --pretrained_model_path ./checkpoints/7.pth
 
 python test.py --template dauhst --outf ./exp/padut_12stg/ --method padut_12 --pretrained_model_path ./checkpoints/12.pth
-
+```
 ## 5. Real Experiement
 ### 5.1　Training
+```
 python train.py  --template dauhst --outf ./exp/padut_3stg/ --method padut_3  
+```
 ### 5.2　Testing
+```
 python test.py  --template dauhst --outf ./exp/padut_3stg/ --method padut_3    --pretrained_model_path ./checkpoints/3.pth
-
+```
 ## 6. Acknowledgements 
 This code repository's implementation is based on these two works:
 
